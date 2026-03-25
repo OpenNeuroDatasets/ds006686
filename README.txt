@@ -38,4 +38,4 @@ Participants fixated (eyes open) on a central cross for 6 minutes.
 
 ## How to cite
 If you use this dataset, please cite:
-Preprint once available
+Bowman, C. R., & Zeithamova, D. (2026). Ventromedial prefrontal cortex supports prototype representations in healthy older adults. Neurobiology of Aging. https://doi.org/10.1016/j.neurobiolaging.2026.02.006
