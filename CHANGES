@@ -1,3 +1,5 @@
+1.0.3 2026-03-25
+  - updated invalid participants.json file (was missing "more than one race" level of race)
 1.0.2 2026-03-25
   - adding publication
 1.0.1 2025-09-23
